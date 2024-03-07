@@ -32,15 +32,15 @@
 
 - **Centro administrativo:**
   
-  ![image](./Anexos/ss1.png)
+  ![image](./ANEXOS/ss1.png)
 
 - **Backbone:**
   
-  ![image](./Anexos/ss2.png)
+  ![image](./ANEXOS/ss2.png)
 
 - **Área de trabajo:**
   
-  ![image](./Anexos/ss3.png)
+  ![image](./ANEXOS/ss3.png)
 
 ---
 
@@ -134,8 +134,8 @@
 
 ## Ping entre IT_2 a IT_1:
 
-  ![image](./Anexos/ss4.png)
+  ![image](./ANEXOS/ss4.png)
 
 ## Ping entre CONTABILIDAD2 a S_CONTABILIDAD:
 
-  ![image](./Anexos/ss5.png)
+  ![image](./ANEXOS/ss5.png)
