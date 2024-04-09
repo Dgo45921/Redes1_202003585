@@ -8,8 +8,6 @@
 
 ### Configuraciones de routers y switch:
 
-<img src="./Anexos/topologia.png" title="" alt="" width="539">
-
 ### Configuración routers
 
 - **Router R1**
@@ -97,5 +95,3 @@
   Approximate round trip times in milli-seconds:
       Minimum = 0ms, Maximum = 1ms, Average = 0ms
   ```
-
-
